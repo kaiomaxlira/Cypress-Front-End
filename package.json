@@ -1,0 +1,14 @@
+{
+  "name": "get-started",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Kaio Max",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.0.0"
+  }
+}
